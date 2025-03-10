@@ -1,6 +1,6 @@
 # GiphyProject
 Giphy Project with Firebase auth, Pagenation, and Search functionality.  
-The site is live [here](https://asrk03.github.io/GiphyProject)
+The site is live [here](https://prithviProf.github.io/GiphyProject)
 
 ## Scripts
 ### Packages Installation
